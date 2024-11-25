@@ -84,9 +84,9 @@
 2. 目前因为数据库方言的使用，只支持mysql，如果要切换数据库系统会有一些工作量，mysql要配置为大小写不敏感（linux环境下特别注意myslq默认大小写敏感）
 3. 请使用utf8字符集
 
-#### wts知识库，安装包下载
+#### wts答题系统，安装包下载
 
-1.  [wts知识库访问地址](http://www.wcpdoc.com/webspecial/home/Pub2c909b2b6739306301678806130d48fe.html)
+1.  [wts答题系统访问地址](http://www.wcpdoc.com/webspecial/home/Pub2c909b2b6739306301678806130d48fe.html)
 2.  [wts安装包下载地址](http://www.wcpdoc.com/webdoc/view/Pub2c909b2b6fbdee960170338a8220471d.html)
 
 #### 使用说明
@@ -109,7 +109,13 @@
 ![题型展示](https://images.gitee.com/uploads/images/2020/0216/151033_e21c1913_24089.png "火狐截图_2020-02-16T07-09-55.943Z.png")
 
 
+## 开源项目推荐
 	
+> WCP:知识管理系统 [https://github.com/wcpplus/WCP](https://github.com/wcpplus/WCP)
+
+> WTS:在线答题系统 [https://github.com/wcpplus/WTS](https://github.com/wcpplus/WTS)
+
+> WLP:在线学习系统 [https://github.com/wcpplus/WLP](https://github.com/wcpplus/WLP)
 
 ## 商业版产品介绍
  > 知识库/在线答題/在线学习产品介绍 [http://www.wcpknow.com/home/index.html](http://www.wcpknow.com/home/index.html)
